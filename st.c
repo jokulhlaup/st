@@ -26,7 +26,6 @@
 #include <X11/cursorfont.h>
 #include <X11/keysym.h>
 #include <X11/Xft/Xft.h>
-#include <fontconfig/fontconfig.h>
 #include <wchar.h>
 
 #include "arg.h"
